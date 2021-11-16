@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# FullStack Backend Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Updates
+
+3. Write a Higher-Order Component (HOC) in React HOC should provide property mouseOver to child component if mouse is over or mouse is out of the component -- done
+
+4. Write a functional React component Component should use HOC from previous question to display if mouse is over or out of component and on click of mouse changes text color.
+
+-- done
 
 ## Available Scripts
 
@@ -35,9 +41,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except
+`eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool
+wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
