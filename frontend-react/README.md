@@ -1,4 +1,4 @@
-# FullStack Backend Assignment
+# FullStack Frontend Assignment
 
 # Updates
 
